@@ -1,0 +1,112 @@
+body {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.body {
+    position: relative;
+}
+
+.top-header {
+    background-color: #1e1e1e;
+    width: 100vw;
+    position: relative;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
+.lang {
+    position: relative;
+    height: 40px;
+    width: 86px;
+    border-color: #7c7b85;
+    border-right-width: 1px;
+    border-right-style: groove;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.lang-content {
+   height: 100%;
+    width: 100%;
+}
+
+
+
+.mini-flag {
+    height: 12px;
+    width: 16px;
+    position: absolute;
+    top: 72%;
+    left: 40%;
+    margin: -15px 0 0 -15px;
+
+}
+
+.lang-text {
+    position: absolute;
+    top: 70%;
+    left: 75%;
+    margin: -15px 0 0 -15px;
+}
+
+.login {
+    height: 40px;
+    width: 100px;
+    border-color: #7c7b85;
+    border-left-width: 1px;
+    border-left-style: groove;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    text-align: center;
+}
+
+.login-text {
+
+}
+
+.cart {
+    height: 40px;
+    width: 130px;
+    border-color: #7c7b85;
+    border-left-width: 1px;
+    border-left-style: groove;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    text-align: center;
+}
+
+.cart-text {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.shopping-cart {
+    height: 10px;
+    width: 10px;
+    color: #7c7b85;
+}
+
+.cart-text {
+display: inline-block;
+    vertical-align: middle;
+}
+
+.zero {
+    background-color: #d54d4d;
+    height: 40px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    text-align: center;
+}
+
+.zero-zero {
+    display: inline-block;
+    vertical-align: middle;
+}

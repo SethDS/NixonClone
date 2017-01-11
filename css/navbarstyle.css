@@ -1,0 +1,87 @@
+.nav-bar {
+    height: 130px;
+    width: 100vw;
+    position: relative;
+    background-color: #fff;
+    color: #000;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-size: 11px;
+}
+
+.invisible {
+    height: 100%;
+    width: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nixon-logo {
+    height: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    /*float: left;*/
+    margin-left: 86px;
+    /*margin-left: 3%;*/
+}
+
+.men-watch {
+    display: inline-block;
+    vertical-align: middle;
+    /*float: left;*/
+    margin-left: 148px;
+}
+
+.women-watch {
+    display: inline-block;
+    vertical-align: middle;
+    /*float: left;*/
+    margin-left: 48px;
+}
+
+.bags-more {
+    display: inline-block;
+    vertical-align: middle;
+    /*float: left;*/
+    margin-left: 48px;
+}
+
+.smart {
+    display: inline-block;
+    vertical-align: middle;
+    /*float: left;*/
+    margin-left: 48px;
+}
+
+.star-wars {
+    display: inline-block;
+    vertical-align: middle;
+    /*float: left;*/
+    margin-left: 48px;
+}
+
+.star-wars-tm {
+    font-size: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.search {
+    display: inline-block;
+    vertical-align: middle;
+    /*float: left;*/
+    margin-left: 148px;
+    border: 2px solid black;
+    height: 30px;
+    color: #000;
+}
+
+.search-content {
+    border: 2px solid black;
+    height: 100%;
+}
+
+.search, input[type='text' ] {
+    font-weight: bold;
+    border-style: none;
+}
